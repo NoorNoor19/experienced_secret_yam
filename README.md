@@ -1,6 +1,6 @@
-# Pre-work - *Memory Game*
+# Pre-work - *Secret Experienced Yam*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+Secret Experienced Yam is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Mahnoor Bibi**
 
